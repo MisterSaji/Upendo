@@ -1,0 +1,144 @@
+.aboutussubtext {
+  color: rgb(251, 161, 224);
+  font-size: 0.75rem;
+  margin-left: 5%;
+  margin-top: 2.625rem;
+}
+
+.icon-holder {
+  width: 90px;
+  height: 90px;
+  margin-left: 5%;
+  margin-top: 10px;
+}
+
+.blok-aboutustexteen {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  margin-left: 5%;
+  width: 320px;
+  margin-top: 1px;
+  display: grid;
+  grid-template-rows: auto auto auto; /* Twee rijen voor visual en tekst */
+  row-gap: 16px; /* Ruimte tussen de rijen */
+}
+
+.toolstext {
+  color: #a8ff1a;
+  font-family: "Martian Mono";
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 200% */
+  margin-left: 5%;
+}
+
+.howtext {
+  font-family: "Martian Mono";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  margin-top: 52px;
+}
+
+.efficienttext {
+  font-family: "Martian Mono";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  margin-top: 45px;
+}
+
+.card-top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 5px;
+  color: #a8ff1a;
+  font-family: "Martian Mono";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 40px;
+  width: 282px;
+}
+
+.Visual {
+  margin-left: 50%;
+}
+
+.colortext {
+  color: var(--OffWhite);
+  margin-left: 5%;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}
+
+.koptext {
+  margin-left: 5%;
+  color: var(--Lime-Green, #a8ff1a);
+  font-family: "Martian Mono";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.visualblok {
+  width: 112px;
+  height: 301px;
+  flex-shrink: 0;
+  margin-top: 72px;
+}
+
+.blok-feature {
+  display: flex;
+  flex-direction: column; /* Zet de elementen onder elkaar */
+  align-items: flex-start; /* Zorg ervoor dat ze links uitgelijnd zijn */
+  color: white;
+  width: 282px;
+  height: 238px;
+  justify-content: flex-start;
+}
+
+.Kadertext {
+  width: 336px;
+  height: 205px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  border: 1px solid var(--Lime-Green, #a8ff1a);
+  margin-top: -240px;
+  position: absolute;
+  margin-left: 28px;
+}
+
+.compotext {
+  position: absolute;
+  margin-left: 54px;
+  width: 282px;
+  color: #fff;
+  font-family: "Area Normal";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 70px;
+}
+
+.Visual {
+  margin-right: 10px;
+}
+
+.buttoncb {
+  margin-top: 30px;
+  margin-left: 150px;
+}
